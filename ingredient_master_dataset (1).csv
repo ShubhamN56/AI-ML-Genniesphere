@@ -1,0 +1,47 @@
+Ingredient,Aliases,Side_Effects,Risk_Level,Label
+BHA,"E320, Butylated Hydroxyanisole","Carcinogenic, endocrine disruptor",High,1
+BHT,"E321, Butylated Hydroxytoluene",Liver & kidney toxicity,High,1
+Sodium Benzoate,E211,"Hyperactivity, allergy",Moderate,1
+Potassium Sorbate,E202,"DNA damage, skin irritation",High,1
+Carrageenan,-,"Gut inflammation, ulcers",Moderate,1
+Propyl Gallate,-,Liver enlargement,High,1
+Sodium Nitrate,E251,Cancer risk,High,1
+Sodium Nitrite,E250,"Pancreas problems, colon cancer",High,1
+TBHQ,E319,"Vision disturbances, immune effects",Moderate,1
+Polysorbate 80,-,Reproductive toxicity,High,1
+Artificial Coloring,"Red 40, Blue 1, Yellow 5","Hyperactivity, ADHD",Moderate,1
+MSG,Monosodium Glutamate,"Headache, nausea, neurotoxic",High,1
+Aspartame,E951,"Carcinogenic, neuro issues",High,1
+Acesulfame K,E950,Thyroid tumors,Moderate,1
+Sucralose,E955,Reduces gut flora,Moderate,1
+High Fructose Corn Syrup,HFCS,"Obesity, diabetes",High,1
+Aluminum Additives,-,Brain toxicity,High,1
+Sodium Phosphate,-,Kidney damage,High,1
+Calcium Propionate,E282,"Migraines, behavioral issues",Moderate,1
+EDTA,Calcium Disodium EDTA,Liver issues,Moderate,1
+Hydrogenated Oils,Trans fats,"Heart disease, inflammation",High,1
+Caramel Color,Class III & IV,4-MEI (Potential carcinogen),Moderate,1
+Refined Vegetable Oils,"Soybean oil, Corn oil","Oxidative stress, inflammation",Moderate,1
+Phosphoric Acid,-,Bone density loss,Moderate,1
+Propylene Glycol,-,"Skin irritation, kidney damage",High,1
+Salt,Sodium Chloride,,Low,0
+Sugar,Sucrose,,Low,0
+Lemon Juice,Citric Acid,,Low,0
+Ascorbic Acid,Vitamin C,,Low,0
+Apple Cider Vinegar,,,Low,0
+Olive Oil,,,Low,0
+Water,,,Low,0
+Coconut Oil,,,Low,0
+Honey,,,Low,0
+Ghee,Clarified Butter,,Low,0
+Turmeric,Curcuma longa,,Low,0
+Black Pepper,Piperine,,Low,0
+Ginger,Zingiber officinale,,Low,0
+Onion Powder,,,Low,0
+Garlic,Allium sativum,,Low,0
+Basil,Ocimum basilicum,,Low,0
+Oregano,,,Low,0
+Cinnamon,,,Low,0
+Nutmeg,,,Low,0
+Clove,,,Low,0
+Chili Powder,,,Low,0
